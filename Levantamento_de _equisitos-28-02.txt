@@ -1,0 +1,23 @@
+FUNCIONAL
+-Login (Nivel 3, essencial para que o cliente se sinta seguro em relação a sua conta);
+-Exibição clara e direta dos produtos (Nivel 3);
+-Verificar quantidade do produto no estoque ( Nivel 3);
+
+
+NÃO FUNCIONAL 
+-Segurança (Nivel 3, de máxima importancia para os clientes);
+-Responsividade (nivel 3);
+-Usabilidade (nivel 3);
+-Confiabilidade (nivel 2);
+-Compatibilidade (nivel 3);
+
+
+REGRAS DO NEGÓCIO
+-Informar a porcentagem sobre a sustentabilidade dos produtos (nivel 3);
+-Lista sobre os impactos ambientais dos produtos (nivel 2); 
+-Dados sobre a fabricação do produto (nivel 1);
+-Classificação dos produtos por mais sustentável (nivel 1, entraria na primeira regra de negocio);
+-Formas diversas de pagamento (nivel 3);
+
+FALTANDO:
+- Uma aba de classificação de produtos;
